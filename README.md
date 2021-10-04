@@ -18,7 +18,7 @@ Centre for Research and Technology Hellas (2015-2016).
   * **Project Management**
     * Agile development, scrum, kanban, technical management
 
-📫 You can contact me by [email](johneegr@gmail.com).
+📫 You can contact me by [email](johneegr@gmail.com) or reach out to me via my [LinkedIn page](https://www.linkedin.com/in/ioannis-antoniadis/).
 
 <!--
 **johnantonn/johnantonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
