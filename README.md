@@ -6,7 +6,7 @@ I have been a member of the [*Intelligent Systems & Software Engineering Labgrou
 Centre for Research and Technology Hellas (2015-2016).
 
 :briefcase: Highlights:
-* *Master of Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/) (2020-present)
+* *Master of Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/), Belgium (2020-present)
 * *Master of Engineering in Electrical and Computer Engineering*, [Aristotle University of Thessaloniki](https://www.auth.gr/en/), Greece (2009-2015)
 * Experience in: 
   * **Fullstack Development**
