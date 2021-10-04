@@ -12,7 +12,7 @@ Centre for Research and Technology Hellas (2015-2016).
   * **Fullstack Development**
     * MERN, MEAN, React Native, web/mobile production applications
   * **Machine Learning**
-    * Applied research on topic modeling (see my 2019 [paper](https://ieeexplore.ieee.org/document/8905611))
+    * Applied research in topic modeling techniques (see my 2019 [paper](https://ieeexplore.ieee.org/document/8905611))
   * **Big Data**
     * Development of an event streaming platform using Kafka, Storm, Redis, CockroachDB  
   * **Project Management**
