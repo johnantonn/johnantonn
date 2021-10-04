@@ -7,7 +7,7 @@ Centre for Research and Technology Hellas (2015-2016).
 
 :briefcase: Highlights:
 * *Master of Artificial Intelligence* student at [KU Leuven](https://www.kuleuven.be/english/) (2020-present)
-* *Master of Engineering in Electrical and Computer Engineering* at [Aristotle University of Thessaloniki](https://www.auth.gr/en/), Greece (2009-2015).
+* *Master of Engineering in Electrical and Computer Engineering* at [Aristotle University of Thessaloniki](https://www.auth.gr/en/), Greece (2009-2015)
 * Experience in: 
   * **Fullstack Development**
     * MERN, MEAN, React Native, web/mobile production applications
