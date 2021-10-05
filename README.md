@@ -24,7 +24,7 @@ Centre for Research and Technology Hellas (2015-2016).
 You can find my full cv [here](https://www.dropbox.com/s/zhczrc7kbdisxls/Curriculum_Vitae.pdf?dl=0).
 
 ## Contact
-You can contact me by [email](johneegr@gmail.com) or reach out to me via my [LinkedIn page](https://www.linkedin.com/in/ioannis-antoniadis/).
+You can contact me by [email](mailto:johneegr@gmail.com) or reach out to me via my [LinkedIn page](https://www.linkedin.com/in/ioannis-antoniadis/).
 
 <!--
 **johnantonn/johnantonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
