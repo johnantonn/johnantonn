@@ -1,6 +1,6 @@
 ## Hi there, I'm Giannis Antoniadis!
 
-I am an advanced master's student at [KU Leuven](https://www.kuleuven.be/english/), specializing in Artificial Intelligence, currently working on my thesis.
+I am an advanced master's in Artificial Intelligence student at [KU Leuven](https://www.kuleuven.be/english/), currently working on my thesis.
 
 I have been a member of the [*Intelligent Systems & Software Engineering Labgroup*](https://issel.ee.auth.gr/) at the Department of Electrical & Computer Engineering of Aristotle University of Thessaloniki (2018-2021) and of the [*Informatics and Telematics Institute*](https://www.certh.gr/root.en.aspx) at the
 Centre for Research and Technology Hellas (2015-2016).
