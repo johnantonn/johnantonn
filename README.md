@@ -1,12 +1,12 @@
 ## Hi there, I'm Giannis Antoniadis!
 
-I am an advanced master's in Artificial Intelligence student at [KU Leuven](https://www.kuleuven.be/english/), currently working on my thesis.
+I am a software engineer, currently studying for an advanced master's degree in Artificial Intelligence student at [KU Leuven](https://www.kuleuven.be/english/).
 
 I have been a member of the [*Intelligent Systems & Software Engineering Labgroup*](https://issel.ee.auth.gr/) at the Department of Electrical & Computer Engineering of Aristotle University of Thessaloniki (2018-2021) and of the [*Informatics and Telematics Institute*](https://www.certh.gr/root.en.aspx) at the
 Centre for Research and Technology Hellas (2015-2016).
 
 ## Highlights
-* *Master of Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/), Belgium (2020-present)
+* *Master of Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/), Belgium (September 2020 - January 2022)
   * **Disciplines**: Machine Learning, ANNs & Deep Learning, SVMs, Data Mining, Big Data Analytics, Information Retrieval & Search Engines, AI Ethics & Law, Big Data Privacy
   * **Thesis**: *Anomaly detection model selection and hyperparameter optimization using AutoML algorithms*
 * *Master of Engineering in Electrical and Computer Engineering*, [Aristotle University of Thessaloniki](https://www.auth.gr/en/), Greece (2009-2015)
