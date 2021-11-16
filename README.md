@@ -6,10 +6,10 @@ I have been a member of the [*Intelligent Systems & Software Engineering Labgrou
 Centre for Research and Technology Hellas (2015-2016).
 
 ## Highlights
-* *Master of Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/), Belgium (September 2020 - January 2022)
+* *MSc in Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/), Belgium (September 2020 - January 2022)
   * **Disciplines**: Machine Learning, ANNs & Deep Learning, SVMs, Data Mining, Big Data Analytics, Information Retrieval & Search Engines, AI Ethics & Law, Big Data Privacy
   * **Thesis**: *Anomaly detection model selection and hyperparameter optimization using AutoML algorithms*
-* *Master of Engineering in Electrical and Computer Engineering*, [Aristotle University of Thessaloniki](https://www.auth.gr/en/), Greece (2009-2015)
+* *MEng in Electrical and Computer Engineering*, [Aristotle University of Thessaloniki](https://www.auth.gr/en/), Greece (2009-2015)
 * Experience in: 
   * **Fullstack Development**
     * MERN, MEAN, React Native, web/mobile production applications
