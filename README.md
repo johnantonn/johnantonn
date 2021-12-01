@@ -19,7 +19,7 @@ Centre for Research and Technology Hellas (2015-2016). In my various past roles,
     * Agile development, scrum, kanban, technical management
 
 ## Curriculum vitae
-You can find my full cv [here](https://www.dropbox.com/s/zhczrc7kbdisxls/Curriculum_Vitae.pdf?dl=0).
+You can find my full cv [here](https://www.dropbox.com/s/234fmte7yyo8j7e/resume.pdf?dl=0).
 
 ## Contact
 You can contact me by [email](mailto:johneegr@gmail.com) or reach out to me via my [LinkedIn page](https://www.linkedin.com/in/ioannis-antoniadis/).
