@@ -9,12 +9,13 @@ Centre for Research and Technology Hellas (2015-2016). In my various past roles,
   * **Thesis**: *Anomaly detection model selection and hyperparameter optimization using AutoML algorithms*
 * *MEng in Electrical and Computer Engineering*, [Aristotle University of Thessaloniki](https://www.auth.gr/en/), Greece (2009-2015)
 * Experience in: 
-  * **Fullstack Development**
-    * MERN, MEAN, React Native, web/mobile production applications
   * **Machine Learning**
+    * Data analysis and predictive modeling using pandas and scikit-learn
     * Applied research in topic modeling techniques (see my 2019 [paper](https://ieeexplore.ieee.org/document/8905611))
   * **Big Data**
-    * Development of an event streaming platform using Kafka, Storm, Redis, CockroachDB  
+    * Development of an event streaming platform using Kafka, Storm, Redis, CockroachDB
+  * **Fullstack Development**
+    * MERN, MEAN, React Native, web/mobile production applications
   * **Project Management**
     * Agile development, scrum, kanban, technical management
 
