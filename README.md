@@ -11,7 +11,7 @@ Centre for Research and Technology Hellas (2015-2016). In my various past roles,
 * Experience in: 
   * **Machine Learning**
     * Data analysis and predictive modeling using pandas and scikit-learn
-    * Automated Machine Learning
+    * Automated machine learning
     * Fairness-aware machine learning
     * Applied research in topic modeling techniques (see my 2019 [paper](https://ieeexplore.ieee.org/document/8905611))
   * **Big Data**
