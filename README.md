@@ -4,7 +4,7 @@ I am a software engineer, currently studying for an advanced master's degree in 
 Centre for Research and Technology Hellas (2015-2016). In my various past roles, I have proven myself as an overachiever, a creative problem solver, a quick learner and a team player.
 
 ## Highlights
-* *MSc in Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/), Belgium (September 2020 - January 2022)
+* *MSc in Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/), Belgium (September 2020 - present)
   * **Disciplines**: Machine Learning, ANNs & Deep Learning, SVMs, Data Mining, Big Data Analytics, Information Retrieval & Search Engines, AI Ethics & Law, Big Data Privacy
   * **Thesis**: *Anomaly detection model selection and hyperparameter optimization using AutoML algorithms*
 * *MEng in Electrical and Computer Engineering*, [Aristotle University of Thessaloniki](https://www.auth.gr/en/), Greece (2009-2015)
