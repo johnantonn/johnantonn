@@ -19,6 +19,9 @@ Centre for Research and Technology Hellas (2015-2016). I am primarily interested
   * **Big Data**
     * Development of an event streaming platform using Kafka, Storm, Redis, CockroachDB
     * Distributed platforms, Hadoop MapReduce and Spark
+
+  * **Software Engineering**
+    * Requirements elicitation, system and architecture design, scalability 
   * **Fullstack Development**
     * MERN, MEAN, React Native, web/mobile production applications
   * **Project Management**
