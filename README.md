@@ -24,7 +24,7 @@ Centre for Research and Technology Hellas (2015-2016). I am primarily interested
   * **Project Management**
     * Agile development, scrum, kanban, technical management
 
-## Curriculum vitae
+## Resume
 You can find my resume [here](https://www.dropbox.com/s/9cuazdq79qso7mm/resume.pdf?dl=0).
 
 ## Contact
