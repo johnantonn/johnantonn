@@ -31,7 +31,7 @@ You can find my resume [here](https://www.dropbox.com/s/9cuazdq79qso7mm/resume.p
 You can contact me by [email](mailto:johneegr@gmail.com) or reach out to me via my [LinkedIn page](https://www.linkedin.com/in/ioannis-antoniadis/).
 
 ## AI stuff..
-You can find a list of reading recommendations (books, publications, articles) that I found interesting during my AI studies [here](https://github.com/johnantonn/ai-reads).
+You can find a list of AI recommendations that I found influential during my studies [here](https://github.com/johnantonn/ai-reads).
 
 <!--
 **johnantonn/johnantonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
