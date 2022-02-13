@@ -16,6 +16,7 @@ Centre for Research and Technology Hellas (2015-2016). I am primarily interested
     * Automated machine learning
     * Fairness-aware machine learning
     * Multi-armed bandits
+    * Outlier detection
     * Applied research in topic modeling techniques (see my 2019 [paper](https://ieeexplore.ieee.org/document/8905611))
   * **Big Data**
     * Development of an event streaming platform using Kafka, Storm, Redis, CockroachDB
