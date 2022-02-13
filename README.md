@@ -30,7 +30,7 @@ Centre for Research and Technology Hellas (2015-2016). I am primarily interested
     * Agile development, scrum, kanban, technical management
 
 ## Resume
-You can find my resume [here](https://www.dropbox.com/s/9cuazdq79qso7mm/resume.pdf?dl=0).
+You can find my resume [here](https://www.dropbox.com/s/p3ye0bcd1eie44t/resume-ml.pdf?dl=0).
 
 ## Contact
 You can contact me by [email](mailto:johneegr@gmail.com) or reach out to me via my [LinkedIn page](https://www.linkedin.com/in/ioannis-antoniadis/).
