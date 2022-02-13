@@ -19,11 +19,11 @@ Centre for Research and Technology Hellas (2015-2016). I am primarily interested
     * Outlier detection
     * Applied research in topic modeling techniques (see my 2019 [paper](https://ieeexplore.ieee.org/document/8905611))
   * **Big Data**
-    * Development of an event streaming platform using Kafka, Storm, Redis, CockroachDB
-    * Distributed platforms, Hadoop MapReduce and Spark
+    * Event streaming, scalability, Kafka, Storm, Redis
+    * Distributed platforms: Hadoop MapReduce and Spark
 
   * **Software Engineering**
-    * Requirements elicitation, system and architecture design, scalability 
+    * Requirements elicitation, system and architecture design 
   * **Fullstack Development**
     * MERN, MEAN, React Native, web/mobile production applications
   * **Project Management**
