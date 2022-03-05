@@ -36,7 +36,7 @@ Centre for Research and Technology Hellas (2015-2016). I am primarily interested
 You can find my resume [here](https://www.dropbox.com/s/p3ye0bcd1eie44t/resume-ml.pdf?dl=0).
 
 ## Contact
-You can contact me by [email](mailto:johneegr@gmail.com) or reach out to me via my [LinkedIn page](https://www.linkedin.com/in/ioannis-antoniadis/).
+You can contact me by [email](mailto:johneegr@gmail.com) or reach out via my [LinkedIn page](https://www.linkedin.com/in/ioannis-antoniadis/).
 
 ## AI stuff..
 You can find a list of AI recommendations that I found influential during my studies [here](https://github.com/johnantonn/ai-reads).
