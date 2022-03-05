@@ -7,11 +7,11 @@ Centre for Research and Technology Hellas (2015-2016). I am primarily interested
 * *MSc in Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/), Belgium (September 2020 - present)
   * **Grade**: 8.2/10 (Magna cum laude) 
   * **Courses**: Fundamentals of AI, Machine Learning, ANNs & Deep Learning, Reinforcement Learning, Data Mining, Big Data Analytics, Information Retrieval & Search Engines, AI Ethics & Law, Big Data Privacy
-  * **Thesis**: *Anomaly detection model selection and hyperparameter optimization using AutoML algorithms*
+  * **Thesis**: *CASH optimization for anomaly detection using AutoML*
 * *MEng in Electrical and Computer Engineering*, [Aristotle University of Thessaloniki](https://www.auth.gr/en/), Greece (2009-2015)
   * **Grade**: 8.3/10 (top 3% of class)  
   * **Courses**: Software Engineering, Database Systems, Distributed Systems, Data Structures, Algorithms Analysis and Design, Pattern Recognition, Computer Architecture
-  * **Thesis**: *Interactive question answering using topic models*
+  * **Thesis**: *Interactive question answering using probabilistic topic models and NLP*
 ## Skills
   * **Machine Learning**
     * Data analysis and predictive modeling using pandas and scikit-learn
