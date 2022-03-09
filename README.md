@@ -5,7 +5,7 @@ Centre for Research and Technology Hellas (2015-2016). I am primarily interested
 
 ## Education
 * *MSc in Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/), Belgium (September 2020 - present)
-  * **Grade**: 8.2/10 (Magna cum laude) 
+  * **Grade**: 82% (Magna cum laude) 
   * **Courses**: Fundamentals of AI, Machine Learning, ANNs & Deep Learning, Reinforcement Learning, Data Mining, Big Data Analytics, Information Retrieval & Search Engines, AI Ethics & Law, Big Data Privacy
   * **Thesis**: *CASH optimization for anomaly detection using AutoML*
 * *MEng in Electrical and Computer Engineering*, [Aristotle University of Thessaloniki](https://www.auth.gr/en/), Greece (2009-2015)
