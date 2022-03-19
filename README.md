@@ -1,4 +1,4 @@
-## Hi there, I'm Giannis Antoniadis!
+## Summary
 
 I am a software & machine learning engineer, about to complete an advanced master's degree in Artificial Intelligence at [KU Leuven](https://www.kuleuven.be/english/). I have been a member of the [*Intelligent Systems & Software Engineering Labgroup*](https://issel.ee.auth.gr/) at the Department of Electrical & Computer Engineering of Aristotle University of Thessaloniki (2018-2021) and of the [*Informatics and Telematics Institute*](https://www.certh.gr/root.en.aspx) at the
 Centre for Research and Technology Hellas (2015-2016). I am primarily interested in artificial intelligence research and applications with high societal impact.
