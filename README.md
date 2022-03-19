@@ -23,7 +23,7 @@ Centre for Research and Technology Hellas (2015-2016). I am primarily interested
     * Applied research in topic modeling techniques (see my 2019 [paper](https://ieeexplore.ieee.org/document/8905611))
   * **Big Data**
     * Event streaming, scalability, Kafka, Storm, Redis
-    * Distributed platforms: Hadoop MapReduce and Spark
+    * Distributed computing frameworks: Hadoop MapReduce and Spark
 
   * **Software Engineering**
     * Requirements elicitation, system and architecture design 
