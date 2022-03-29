@@ -1,6 +1,6 @@
 ## Summary
 
-*Engineer by training, scientist by inclination*
+*Engineer by training, scientist by inclination.*
 
 With 5+ years of experience in building big data and machine learning applications, I am currently finishing my thesis on automated anomaly detection as part of a master's programme in Artificial Intelligence at [KU Leuven](https://www.kuleuven.be/english/). What motivates me: the idea of pushing the human boundaries using technology and making the world a better place for future generations.
 
