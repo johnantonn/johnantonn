@@ -27,9 +27,9 @@ Centre for Research and Technology Hellas (2015-2016). I am primarily interested
 
   * **Software Engineering**
     * Requirements elicitation, system and architecture design 
-  * **Fullstack Development**
-    * MERN, MEAN, React Native, web/mobile production applications
-  * **Project Management**
+    * Fullstack Development using MERN, MEAN, React Native, web/mobile production applications
+
+* **Project Management**
     * Agile development, scrum, kanban, technical management
 
 ## Resume
