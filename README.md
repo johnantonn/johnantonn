@@ -23,7 +23,6 @@ Centre for Research and Technology Hellas (2015-2016).
     * Fairness-aware machine learning
     * Multi-armed bandits
     * Outlier detection
-    * Data-driven astronomy
     * Applied research in topic modeling techniques (see my 2019 [paper](https://ieeexplore.ieee.org/document/8905611))
   * **Big Data**
     * Event streaming, scalability, Kafka, Storm, Redis
