@@ -17,7 +17,7 @@ Centre for Research and Technology Hellas (2015-2016).
   * **Courses**: Software Engineering, Database Systems, Distributed Systems, Data Structures, Algorithms Analysis and Design, Pattern Recognition, Computer Architecture
   * **Thesis**: *Interactive question answering using probabilistic topic models and NLP*
 ## Skills
-  * **Machine Learning**
+  * **AI/ML**
     * Data analysis and predictive modeling using pandas and scikit-learn
     * Automated machine learning
     * Fairness-aware machine learning
@@ -29,9 +29,9 @@ Centre for Research and Technology Hellas (2015-2016).
     * Event streaming, scalability, Kafka, Storm, Redis
     * Distributed computing frameworks: Hadoop MapReduce and Spark
 
-  * **Software Engineering**
+  * **Software Engineering and Development**
     * Requirements elicitation, system and architecture design 
-    * Fullstack Development using MERN, MEAN, React Native, web/mobile production applications
+    * MERN, MEAN, React Native, web/mobile production applications
 
 * **Project Management**
     * Agile development, scrum, kanban, technical management
