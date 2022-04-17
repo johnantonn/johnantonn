@@ -2,10 +2,16 @@
 
 *Engineer by training, scientist by inclination.*
 
-With 5+ years of experience in building big data and machine learning applications, I am currently finishing my thesis on automated anomaly detection as part of a master's programme in Artificial Intelligence at [KU Leuven](https://www.kuleuven.be/english/). What motivates me: the idea of pushing the human boundaries using technology and making the world a better place for future generations.
+I am a software & machine learning engineer with 5+ years of experience in building full-stack, big data and machine learning applications. I am currently finishing my thesis for the advanced master's programme in Artificial Intelligence at [KU Leuven](https://www.kuleuven.be/english/) and I look forward to the opportunities and challenges that lie ahead! 
 
-I have been a member of the [*Intelligent Systems & Software Engineering Labgroup*](https://issel.ee.auth.gr/) at the Department of Electrical & Computer Engineering of Aristotle University of Thessaloniki (2018-2021) and of the [*Informatics and Telematics Institute*](https://www.certh.gr/root.en.aspx) at the
-Centre for Research and Technology Hellas (2015-2016).
+I find the idea of pushing the human boundaries using technology exciting and motivating and I believe in responsibility of making world a better place for future generations. During my past roles, I managed to learn different technology stacks in short periods of time and I collaborated and exchanged knowledge and opinions with amazing people. 
+
+As a member of the [*Intelligent Systems & Software Engineering Labgroup*](https://issel.ee.auth.gr/) at the Department of Electrical & Computer Engineering of Aristotle University of Thessaloniki (2018-2021), I participated in 2 research projects and worked on full-stack development, machine learning and big data problems in a variety of roles. During this 3-year period I authored 8 deliverables with 100% rate and presented a publication at the 2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe) in Bucharest, Romania.
+
+As a member of the Sainsbury's project amazing team for over 1 year at Veltio, I was able to cope with industry challenges and implement production solutions with real business impact. In this multicultural, fast-paced environment with high expectations, I managed to improve both my technical as well as my communication skills and saw myself evolving from a junior developer to an experienced professional that drives daily calls with business clients and IT teams.
+
+Finally, at my first job as a graduate Electrical and Computer Engineer at the [Centre for Research & Technology Hellas](https://www.certh.gr/root.en.aspx), I had the opportunity to experiment with big data and cloud computing technologies at their infancy and collaborate with skilled researchers and scientists from European institutions and companies.
+
 
 ## Education
 * *MSc in Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/), Belgium (September 2020 - present)
@@ -17,7 +23,7 @@ Centre for Research and Technology Hellas (2015-2016).
   * **Courses**: Software Engineering, Database Systems, Distributed Systems, Data Structures, Algorithms Analysis and Design, Pattern Recognition, Computer Architecture
   * **Thesis**: *Interactive question answering using probabilistic topic models and NLP*
 ## Skills
-  * **AI/ML**
+  * **Artificial Intelligence & Machine Learning**
     * Data analysis and predictive modeling using pandas and scikit-learn
     * Automated machine learning
     * Fairness-aware machine learning
