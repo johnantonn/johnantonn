@@ -14,10 +14,10 @@ Finally, at my first job as a graduate Electrical and Computer Engineer at the [
 
 
 ## Education
-* *MSc in Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/), Belgium (September 2020 - present)
+* *MSc in Artificial Intelligence*, [KU Leuven](https://www.kuleuven.be/english/), Belgium (September 2020 - June 2022)
   * **Grade**: 82% (Magna cum laude) 
   * **Courses**: Fundamentals of AI, Machine Learning, ANNs & Deep Learning, Reinforcement Learning, Data Mining, Big Data Analytics, Information Retrieval & Search Engines, AI Ethics & Law, Big Data Privacy
-  * **Thesis**: *CASH optimization for anomaly detection using AutoML*
+  * **Thesis**: *Systematic evaluation of CASH optimization for unsupervised anomaly detection*
 * *MEng in Electrical and Computer Engineering*, [Aristotle University of Thessaloniki](https://www.auth.gr/en/), Greece (2009-2015)
   * **Grade**: 8.3/10 (top 3% of class)  
   * **Courses**: Software Engineering, Database Systems, Distributed Systems, Data Structures, Algorithms Analysis and Design, Pattern Recognition, Computer Architecture
