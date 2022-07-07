@@ -2,7 +2,7 @@
 
 *Engineer by training, scientist by inclination.*
 
-I am a software & machine learning engineer with 5+ years of experience in building full-stack, big data and machine learning applications. I am currently finishing my thesis for the advanced master's programme in Artificial Intelligence at [KU Leuven](https://www.kuleuven.be/english/) and I look forward to the opportunities and challenges that lie ahead! 
+I am a software & machine learning engineer with 5+ years of experience in building full-stack, big data and machine learning applications. I have recently graduated from [KU Leuven](https://www.kuleuven.be/english/) and obtained a Master's degree in Artificial Intelligence! 
 
 I find the idea of pushing the human boundaries using technology exciting and motivating and I believe in the responsibility of making the world a better place for future generations. During my past roles, I managed to learn different technology stacks in short periods of time and I collaborated and exchanged knowledge and opinions with amazing people. 
 
