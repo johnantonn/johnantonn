@@ -2,15 +2,9 @@
 
 *Engineer by training, scientist by inclination.*
 
-I am a software & machine learning engineer with 5+ years of experience in building full-stack, big data and machine learning applications. I have recently graduated from [KU Leuven](https://www.kuleuven.be/english/) and obtained an advanced Master's degree in Artificial Intelligence with *Magna cum laude* distinction! 
+I am a software & machine learning engineer with 5+ years of experience in building full-stack, big data and machine learning applications. I have recently graduated from [KU Leuven](https://www.kuleuven.be/english/) and obtained an advanced Master's degree in Artificial Intelligence with *Magna cum laude* distinction, while my master's thesis was accepted as a full-paper in the [LIDTA-2022 workshop](https://lidta.dcc.fc.up.pt/), co-located with [ECML/PKDD 2022](https://2022.ecmlpkdd.org/).
 
-I find the idea of pushing the human boundaries using technology exciting and motivating and I believe in the responsibility of making the world a better place for future generations. During my past roles, I managed to learn different technology stacks in short periods of time and I collaborated and exchanged knowledge and opinions with amazing people. 
-
-As a member of the [*Intelligent Systems & Software Engineering Labgroup*](https://issel.ee.auth.gr/) at the Department of Electrical & Computer Engineering of Aristotle University of Thessaloniki (2018-2021), I participated in 2 research projects and worked on full-stack development, machine learning and big data problems in a variety of roles. During this 3-year period I authored 8 deliverables with 100% rate and presented a publication at the 2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe) in Bucharest, Romania.
-
-As a member of the Sainsbury's project team for over 1 year at Veltio, I was able to cope with industry challenges and implement production solutions with real business impact. In this multicultural, fast-paced environment with high expectations, I managed to improve both my technical as well as my communication skills and evolved from a junior developer to an experienced professional that drives daily calls with business clients and IT teams.
-
-Finally, at my first job as a graduate Electrical and Computer Engineer at the [Centre for Research & Technology Hellas](https://www.certh.gr/root.en.aspx), I had the opportunity to experiment with big data and cloud computing technologies at their infancy and collaborate with skilled researchers and scientists from European institutions and companies.
+I find the idea of pushing the human boundaries using technology exciting and motivating and I believe in the responsibility of making the world a better place for future generations. During my past roles, I managed to learn different technology stacks in short periods of time and I collaborated and exchanged knowledge and opinions with amazing people.
 
 
 ## Education
