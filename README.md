@@ -19,6 +19,7 @@ I find the idea of pushing the human boundaries using technology exciting and mo
 ## Skills
   * **Artificial Intelligence & Machine Learning**
     * Data analysis and predictive modeling using pandas and scikit-learn
+    * Deep Learning with TensorFlow
     * Automated machine learning
     * Fairness-aware machine learning
     * Multi-armed bandits
