@@ -20,11 +20,11 @@ I find the idea of pushing the human boundaries using technology exciting and mo
   * **Artificial Intelligence & Machine Learning**
     * Data analysis and predictive modeling using pandas and scikit-learn
     * Deep Learning with TensorFlow
-    * Automated machine learning
+    * Automated machine learning (see my [2022 paper](https://proceedings.mlr.press/v183/antoniadis22a))
     * Fairness-aware machine learning
     * Multi-armed bandits
-    * Outlier detection
-    * Applied research in topic modeling techniques (see my 2019 [paper](https://ieeexplore.ieee.org/document/8905611))
+    * Outlier detection (see my [2022 paper](https://proceedings.mlr.press/v183/antoniadis22a))
+    * Applied research in topic modeling techniques (see my [2019 paper](https://ieeexplore.ieee.org/document/8905611))
   * **Big Data**
     * Event streaming, scalability, Kafka, Storm, Redis
     * Distributed computing frameworks: Hadoop MapReduce and Spark
