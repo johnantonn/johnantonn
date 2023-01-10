@@ -37,7 +37,7 @@ I find the idea of pushing the human boundaries using technology exciting and mo
     * Agile development, scrum, kanban, technical management
 
 ## Resume
-You can find my resume [here](https://www.dropbox.com/s/7ma8tuurwgwxda2/resume.pdf?dl=0).
+You can find my cv [here](https://www.dropbox.com/s/c6ekycx0iogy94o/Ioannis_Antoniadis_CV.pdf?dl=0).
 
 ## Contact
 You can contact me by [email](mailto:johneegr@gmail.com) or reach out via my [LinkedIn page](https://www.linkedin.com/in/ioannis-antoniadis/).
