@@ -22,6 +22,7 @@ I find the idea of pushing the human boundaries using technology exciting and mo
     * Deep Learning with TensorFlow
     * Automated machine learning (see my [2022 paper](https://proceedings.mlr.press/v183/antoniadis22a))
     * Fairness-aware machine learning
+    * Learning to Rank modeling and evaluation
     * Multi-armed bandits
     * Outlier detection (see my [2022 paper](https://proceedings.mlr.press/v183/antoniadis22a))
     * Applied research in topic modeling techniques (see my [2019 paper](https://ieeexplore.ieee.org/document/8905611))
@@ -43,7 +44,7 @@ You can find my cv [here](https://www.dropbox.com/s/c6ekycx0iogy94o/Ioannis_Anto
 You can contact me by [email](mailto:johneegr@gmail.com) or reach out via my [LinkedIn page](https://www.linkedin.com/in/ioannis-antoniadis/).
 
 ## AI stuff..
-You can find a list of AI recommendations that I found influential during my studies [here](https://github.com/johnantonn/ai-reads).
+You can find a list of recommended reads on the field of AI [here](https://github.com/johnantonn/artificial-intelligence-references).
 
 <!--
 **johnantonn/johnantonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
