@@ -33,7 +33,7 @@ I continued my journey as a **software engineer** at *Veltio*, a company (Oracle
 
 I later joined the *Intelligent Systems and Software Engineering Labgroup* of the Electrical and Computer Engineering department, AUTH, as a **research associate**, where I was responsible for the technical management of an EU-funded project related to energy monitoring and load disaggregation in consumer installations.
 
-I am currently working at [*Expedia Group*](https://www.expediagroup.com/home/default.aspx), London, as a **machine learning scientist**. As a member of the Relevance team, I work on xlarge-scale ranking problems using **deep learning**. I also devote a percentage of my time to impactful **state-of-the-art deep learning research**, trying to identify potential opportunities and incorporate/customize novel solutions to facilitate the traveler's journey.
+In July 2022 I joined [*Expedia Group*](https://www.expediagroup.com/home/default.aspx), London, as a **machine learning scientist**. Being a member of the Relevance team, I work on xlarge-scale ranking problems using **deep learning**. I also devote a percentage of my time to impactful **state-of-the-art deep learning research**, trying to identify potential opportunities and incorporate/customize novel solutions to facilitate the traveler's journey.
 
 <sub>*Actually, my first job was in 2011 where I worked as a part-time support representative for *OTE*, the largest telecommunications company in Greece.</sub>
 
