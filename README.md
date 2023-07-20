@@ -41,7 +41,7 @@ I am currently working at [*Expedia Group*](https://www.expediagroup.com/home/de
 
 I find the idea of pushing the human boundaries using technology exciting and I believe in the responsibility of making the world a better place for future generations.
 
-*One small positive step at a time*
+*All it takes is one small positive step at a time!*
 
 ## Curriculum Vitae 
 You can find my full cv [here](https://www.dropbox.com/s/c6ekycx0iogy94o/Ioannis_Antoniadis_CV.pdf?dl=0).
