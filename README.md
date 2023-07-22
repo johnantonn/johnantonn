@@ -27,11 +27,11 @@ I have authored two papers:
 
 ## Experience
 
-My professional career started in 2015*, when I joined the Centre for *Research and Technology Hellas (CERTH)* as a **research associate**. There, I worked on a EU-funded project on cloud computing, when the field was still at its very early stages, and collaborated with a large consortium of european institutions.
+My professional career started in 2015*, when I joined the Centre for [*Research and Technology Hellas (CERTH)](https://www.iti.gr/iti/en/home/)* as a **research associate**. There, I worked on a EU-funded project on cloud computing, when the field was still at its very early stages, and collaborated with a large consortium of european institutions.
 
-I continued my journey as a **software engineer** at *Veltio*, a company (Oracle golden partner) offering supply-chain automation solutions. I worked on real-world, large-scale problems alongside an exceptional group of colleagues. Together we built data processing algorithms and automation systems that were used by major international actors, such as Sainsbury's, that drove significant growth and revenue.
+I continued my journey as a **software engineer** at [*Veltio*](https://veltio.com/), a company (Oracle golden partner) offering supply-chain automation solutions. I worked on real-world, large-scale problems alongside an exceptional group of colleagues. Together we built data processing algorithms and automation systems that were used by major international actors, such as Sainsbury's, that drove significant growth and revenue.
 
-I later joined the *Intelligent Systems and Software Engineering Labgroup* of the Electrical and Computer Engineering department, AUTH, as a **research associate**, where I was responsible for the development and technical management of an EU-funded project related to energy monitoring and load disaggregation in consumer installations.
+I later joined the [*Intelligent Systems and Software Engineering Labgroup (ISSEL)*](https://issel.ee.auth.gr/en/13-2/) of the Electrical and Computer Engineering department, AUTH, as a **research associate**, where I was responsible for the development and technical management of an EU-funded project related to energy monitoring and load disaggregation in consumer installations.
 
 In July 2022 I joined [*Expedia Group*](https://www.expediagroup.com/home/default.aspx), London, as a **machine learning scientist**. Being a member of the Relevance team, I work on xlarge-scale ranking problems using **deep learning**. I also devote a percentage of my time to impactful **state-of-the-art deep learning research**, trying to identify potential opportunities and incorporate/customize novel solutions to facilitate the traveler's journey.
 
