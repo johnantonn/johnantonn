@@ -31,7 +31,7 @@ My professional career started in 2015*, when I joined the Centre for *Research 
 
 I continued my journey as a **software engineer** at *Veltio*, a company (Oracle golden partner) offering supply-chain automation solutions. I worked on real-world, large-scale problems alongside an exceptional group of colleagues. Together we built data processing algorithms and automation systems that were used by major international actors, such as Sainsbury's, that drove significant growth and revenue.
 
-I later joined the *Intelligent Systems and Software Engineering Labgroup* of the Electrical and Computer Engineering department, AUTH, as a **research associate**, where I was responsible for the technical management of an EU-funded project related to energy monitoring and load disaggregation in consumer installations.
+I later joined the *Intelligent Systems and Software Engineering Labgroup* of the Electrical and Computer Engineering department, AUTH, as a **research associate**, where I was responsible for the development and technical management of an EU-funded project related to energy monitoring and load disaggregation in consumer installations.
 
 In July 2022 I joined [*Expedia Group*](https://www.expediagroup.com/home/default.aspx), London, as a **machine learning scientist**. Being a member of the Relevance team, I work on xlarge-scale ranking problems using **deep learning**. I also devote a percentage of my time to impactful **state-of-the-art deep learning research**, trying to identify potential opportunities and incorporate/customize novel solutions to facilitate the traveler's journey.
 
