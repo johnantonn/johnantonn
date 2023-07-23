@@ -1,8 +1,8 @@
 ## About me
 
-Hello, I am Giannis!
-
 Trying to optimize a notoriously complex loss function by navigating an extremely high-dimensional, non-convex space-time manifold, one small step at a time.
+
+Most probably, so are you!
 
 **A piece of advice for this mysterious journey**:
 - Wisely choose the loss function(s) you want to optimize.
