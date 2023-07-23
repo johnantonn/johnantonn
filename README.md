@@ -2,9 +2,7 @@
 
 Hello, I am Giannis!
 
-I've been trying to optimize a notoriously complex loss function by navigating an extremely high-dimensional, non-convex space-time manifold, one small step at a time.
-
-I've learned a lot along the way but there's still so much more to learn.
+Trying to optimize a notoriously complex loss function by navigating an extremely high-dimensional, non-convex space-time manifold, one small step at a time.
 
 **A piece of advice for this mysterious journey**:
 - Wisely choose the loss function(s) you want to optimize.
@@ -27,7 +25,7 @@ I have authored two papers:
 
 ## Experience
 
-My professional career started in 2015*, when I joined the Centre for [*Research and Technology Hellas (CERTH)](https://www.iti.gr/iti/en/home/)* as a **research associate**. There, I worked on a EU-funded project on cloud computing, when the field was still at its very early stages, and collaborated with a large consortium of european institutions.
+My professional career started in 2015*, when I joined the [*Centre for Research and Technology Hellas (CERTH)*](https://www.iti.gr/iti/en/home/) as a **research associate**. There, I worked on a EU-funded project on cloud computing, when the field was still at its very early stages, and collaborated with a large consortium of european institutions.
 
 I continued my journey as a **software engineer** at [*Veltio*](https://veltio.com/), a company (Oracle golden partner) offering supply-chain automation solutions. I worked on real-world, large-scale problems alongside an exceptional group of colleagues. Together we built data processing algorithms and automation systems that were used by major international actors, such as Sainsbury's, that drove significant growth and revenue.
 
@@ -35,7 +33,7 @@ I later joined the [*Intelligent Systems and Software Engineering Labgroup (ISSE
 
 In July 2022 I joined [*Expedia Group*](https://www.expediagroup.com/home/default.aspx), London, as a **machine learning scientist**. Being a member of the Relevance team, I work on xlarge-scale ranking problems using **deep learning**. I also devote a percentage of my time to impactful **state-of-the-art deep learning research**, trying to identify potential opportunities and incorporate/customize novel solutions to facilitate the traveler's journey.
 
-<sub>*Actually, my first job was in 2011 where I worked as a part-time support representative for *OTE*, the largest telecommunications company in Greece.</sub>
+<sub>*Actually, my first job was in 2011 during my second-year studies at AUTH, where I worked as a part-time support representative at *OTE*, the largest telecommunications company in Greece.</sub>
 
 ## What motivates me
 
