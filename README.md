@@ -42,7 +42,7 @@ I find the idea of pushing the human boundaries using technology exciting and I 
 *All it takes is one small positive step at a time!*
 
 ## Curriculum Vitae 
-You can find my full cv [here](https://www.dropbox.com/scl/fi/rm5px959qvs1ptr0tvkvj/Ioannis_Antoniadis_CV_v2.pdf?rlkey=9ggurkz2vp2af0820mh7lvdaj&dl=0).
+You can find my full cv [here](https://www.dropbox.com/scl/fi/aiaa8a0a3feu6ylad6kq2/Ioannis_Antoniadis_CV.pdf?rlkey=lmeqd0kifa6wx02ofa2pk38cr&dl=0).
 
 ## Contact
 You can contact me by [email](mailto:johneegr@gmail.com) or reach out via [LinkedIn](https://www.linkedin.com/in/ioannis-antoniadis/).
