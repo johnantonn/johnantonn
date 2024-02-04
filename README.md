@@ -4,7 +4,7 @@ Trying to optimize a notoriously complex loss function by navigating an extremel
 
 Most probably, so are you!
 
-**A piece of advice for this mysterious journey**:
+**My learnings from this mysterious journey**:
 - Wisely choose the loss function(s) you want to optimize.
 - Carefully choose your training data. This is what you'll be learning from.
 - Adapt your learning rate accordingly; be careful not to overshoot.
