@@ -5,15 +5,13 @@ Trying to optimize a notoriously complex loss function by navigating a high-dime
 Most probably, so are you!
 
 **My learnings from this mysterious journey**:
-- Wisely choose the loss function(s) you want to optimize.
-- Carefully choose your training data. This is what you'll be learning from.
+- Select the loss function(s) you want to optimize with caution.
+- Choose your training data carefully. This is what you'll be learning from.
 - Adapt your learning rate accordingly; be careful not to overshoot.
 - Make informative, small steps towards the right direction.
 - Trust the power of the gradient but also enable clipping to keep it from exploding.
 - Stay alert for you might overfit. Perhaps use some regularization.
-- Don't expect to find any global minima.
-- Escape the plateaus; you'll encounter plenty.
-- Keep moving downhill!
+- Keep descending — but allow momentum to carry you through valleys!
 
 ## Education
 
