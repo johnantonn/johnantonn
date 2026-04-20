@@ -1,46 +1,59 @@
-## About me
+# About me
+
+```text
+        ✦  ·  ·  ✦
+         \ | | /
+    ~~~~~\/\/\/~~~~~   ← a very non-convex day
+         /  ·
+        ∇
+```
+*Tiny sketch: gradient in a high-dimensional sky.*
 
 Trying to optimize a notoriously complex loss function by navigating a high-dimensional, non-convex space-time manifold, one small step at a time.
 
 Most probably, so are you!
 
 **My learnings from this mysterious journey**:
+
 - Select the loss function(s) you want to optimize with caution.
 - Choose your training data carefully. This is what you'll be learning from.
 - Adapt your learning rate accordingly; be careful not to overshoot.
-- Make informative, small steps towards the right direction.
-- Trust the power of the gradient but also enable clipping to keep it from exploding.
-- Stay alert for you might overfit. Perhaps use some regularization.
-- Keep descending — but allow momentum to carry you through valleys!
+- Make informative, small steps in the right direction.
+- Trust the power of the gradient, but also enable clipping to keep it from exploding.
+- Stay alert—you might overfit. Perhaps use some regularization.
+- Keep descending—but allow momentum to carry you through valleys!
 
 ## Education
 
-I hold a diploma in **Electrical and Computer Engineering** (2015) and an advanced Master's degree in **Artificial Intelligence** (2022) from *KU Leuven*, Belgium. I was fortunate to have been educated by amazing professors, experts and mentors in the topics of **mathematics**, **physics**, **engineering** and **computer science**.
+I hold an **MEng in Electrical and Computer Engineering** (2015, top 3%) from **Aristotle University of Thessaloniki**, Greece, and an **MSc in Artificial Intelligence** (2022, *magna cum laude*) from **KU Leuven**, Belgium. I was fortunate to have been taught by outstanding professors, experts, and mentors across **mathematics**, **physics**, **engineering**, and **computer science**.
 
 I have authored two papers:
-- [Antoniadis, I., Vercruyssen, V. \& Davis, J.. (2022). Systematic Evaluation of CASH Search Strategies for Unsupervised Anomaly Detection. Proceedings of the Fourth International Workshop on Learning with Imbalanced Domains: Theory and Applications, in Proceedings of Machine Learning Research 183:8-22.](https://proceedings.mlr.press/v183/antoniadis22a)
-- [I. I. Antoniadis, K. C. Chatzidimitriou and A. L. Symeonidis, "Security and Privacy for Smart Meters: A Data-Driven Mapping Study," 2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), Bucharest, Romania, 2019, pp. 1-5, doi: 10.1109/ISGTEurope.2019.8905611.](https://ieeexplore.ieee.org/document/8905611)
+
+- [Antoniadis, I., Vercruyssen, V. and Davis, J. (2022). Systematic Evaluation of CASH Search Strategies for Unsupervised Anomaly Detection. Proceedings of the Fourth International Workshop on Learning with Imbalanced Domains: Theory and Applications, in Proceedings of Machine Learning Research 183:8–22.](https://proceedings.mlr.press/v183/antoniadis22a)
+- [I. I. Antoniadis, K. C. Chatzidimitriou and A. L. Symeonidis, "Security and Privacy for Smart Meters: A Data-Driven Mapping Study," 2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), Bucharest, Romania, 2019, pp. 1–5, doi: 10.1109/ISGTEurope.2019.8905611.](https://ieeexplore.ieee.org/document/8905611)
 
 ## Experience
 
-My professional career started in 2015*, when I joined the [*Centre for Research and Technology Hellas (CERTH)*](https://www.iti.gr/iti/en/home/) as a **research associate**. There, I worked on a EU-funded project on cloud computing, when the field was still at its early stages, and collaborated with a large consortium of european institutions.
+My professional career started in **2015**, when I joined the [Centre for Research and Technology Hellas (CERTH)](https://www.iti.gr/iti/en/home/) as a **research associate** (Nov 2015–Jul 2016). There, I contributed to an EU-funded H2020 project on cloud computing—when the field was still in its early stages—and worked with a large consortium of European institutions.
 
-I continued my journey as a **software engineer** at [*Veltio*](https://veltio.com/), a company (Oracle golden partner) offering supply-chain automation solutions. I worked on real-world, large-scale problems alongside an exceptional group of colleagues and led the development of big data processing pipelines and automation systems that were used by major international actors, such as Sainsbury's, that drove significant growth and revenue.
+I continued as a **software engineer** at [Veltio](https://veltio.com/) (Dec 2016–Jul 2018), an Oracle partner offering supply-chain automation solutions. I worked on real-world, large-scale problems alongside an exceptional team and led the development of data pipelines and systems used by major international retailers, including Sainsbury's in the UK.
 
-I later joined the [*Intelligent Systems and Software Engineering Labgroup (ISSEL)*](https://issel.ee.auth.gr/en/13-2/) of the Electrical and Computer Engineering department, AUTH, as a **research engineer**, where I was responsible for the development and technical management of an EU-funded project related to energy monitoring and load disaggregation in consumer installations. There, I had the opportunity to do applied ML research and contribute to the development of an event streaming platform for real-time data processing.
+I then joined the [Intelligent Systems and Software Engineering Lab (ISSEL)](https://issel.ee.auth.gr/en/13-2/) at the Electrical and Computer Engineering department, AUTH, as an **ML research engineer** (Oct 2018–Sep 2021). I was technical lead on an EU-funded project on energy monitoring and load disaggregation: applied ML research, NLP pipelines (e.g. BERT, topic models), and a high-throughput event streaming engine for real-time smart-meter analytics.
 
-In July 2022 I joined [*Expedia Group*](https://www.expediagroup.com/home/default.aspx), London, as a **machine learning scientist**. As a member of the Content & Relevance team, I've worked on xlarge-scale ranking problems like review amd amenity ranking using **deep learning**, while also contributing to the development of internal ranking frameworks and libraries that are being used by multiple teams. My latest work involves enhancing contextualization and personalization for our models, LLM-as-a-judge pipelines, real-time inference using LLMs and multi-modal retrieval.
+In **September 2022** I joined [Expedia Group](https://www.expediagroup.com/home/default.aspx) in London as a **machine learning scientist**. On the Content & Relevance team I work on large-scale ranking and retrieval—reviews, amenities, and property understanding—using **deep learning**, LLMs, and multi-modal methods. Recent focus includes cross-brand review ranking, semantic relevance and distillation for low-latency embeddings, LLM-as-judge labelling, internal TensorFlow ranking frameworks shared across teams, distributed evaluation tooling, and research on bias, calibration, and data pruning.
 
-<sub>*Actually, my first job was in 2011 during my second-year studies at AUTH, where I worked as a part-time support representative at *OTE*, the largest telecommunications company in Greece.</sub>
+<sub>*My first job was in 2011, during my second year at AUTH, as a part-time support representative at OTE, the largest telecommunications company in Greece.</sub>
 
 ## What motivates me
 
-I find the idea of pushing the human boundaries using technology exciting and I believe in the responsibility of making the world a better place for future generations.
+I find the idea of pushing human boundaries with technology exciting, and I believe in the responsibility of making the world a better place for future generations.
 
 *All it takes is one small step at a time!*
 
-## Curriculum Vitae 
-You can find my full cv [here](https://www.dropbox.com/scl/fi/qlg9hln8qiavp80d2xzd1/iantoniadis_2026.pdf?rlkey=ybe4z6gfc1dsoodkxwvcec7v2&dl=0).
+## Curriculum vitae
+
+You can find my full CV [here](https://www.dropbox.com/scl/fi/8ivr3wr4eyzgz1rlop83s/iantoniadis_2026.pdf?rlkey=fkofbkvo55g7plw0ni17fajwk&dl=0).
 
 ## Contact
-You can contact me by [email](mailto:johneegr@gmail.com) or reach out via [LinkedIn](https://www.linkedin.com/in/ioannis-antoniadis/).
+
+You can contact me by [email](mailto:ioannis.antoniadis.uk@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ioannis-antoniadis/).
