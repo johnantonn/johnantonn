@@ -76,10 +76,15 @@ Past **coursework**, **side projects**, and **research code** live in separate r
 - [kepler-exoplanet-prediction](https://github.com/johnantonn/kepler-exoplanet-prediction) — Kepler / KOI classification notebook  
 - [sorting](https://github.com/johnantonn/sorting) — Python sorting algorithms, pytest, benchmarks  
 
-**Earlier — Aristotle University & systems work**
+**Aristotle University**
 
-- [insight-qa](https://github.com/johnantonn/insight-qa) — semantic QA (Java, Elasticsearch, LDA)  
-- [pagerank](https://github.com/johnantonn/pagerank), [octree-division](https://github.com/johnantonn/octree-division) — parallel C (PageRank, octree)
+*Diploma thesis*
+
+- [insight-qa](https://github.com/johnantonn/insight-qa) — Semantic question answering (Java, Elasticsearch, LDA)  
+
+*Coursework*
+
+- [pagerank](https://github.com/johnantonn/pagerank), [octree-division](https://github.com/johnantonn/octree-division) — Parallel C (PageRank; octree spatial division)  
 
 ## Curriculum vitae
 
