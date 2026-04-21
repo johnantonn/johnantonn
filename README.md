@@ -52,32 +52,35 @@ I find the idea of pushing human boundaries with technology exciting, and I beli
 
 ## Selected GitHub repositories
 
-Past **coursework**, **research code**, and small **tools** live in separate repositories. Most of those are **archived** on GitHub (read-only snapshots; not actively maintained). This profile README and [**resume**](https://github.com/johnantonn/resume) stay current.
+Past **coursework**, **side projects**, **research code**, and small **libraries** live in separate repositories. Most are **archived** on GitHub (read-only snapshots; not actively maintained). This profile README and [**resume**](https://github.com/johnantonn/resume) stay current.
 
-**KU Leuven — Master of Artificial Intelligence**
+**KU Leuven — Master of Artificial Intelligence (formal coursework)**
 
 - [cart](https://github.com/johnantonn/cart) — CART / decision trees  
 - [grid-world-mdp](https://github.com/johnantonn/grid-world-mdp) — grid-world MDP, policy iteration  
 - [taxi-rides-mapreduce](https://github.com/johnantonn/taxi-rides-mapreduce) — Hadoop MapReduce & Spark taxi analytics  
-- [bias-variance-decomposition](https://github.com/johnantonn/bias-variance-decomposition) — bias–variance notebooks  
+- [locality-sensitive-hashing](https://github.com/johnantonn/locality-sensitive-hashing) — LSH on Stack Overflow posts  
+
+**Personal notebooks & experiments** (self-directed; not part of a degree curriculum)
+
+- [bias-variance-decomposition](https://github.com/johnantonn/bias-variance-decomposition) — bias–variance decomposition  
 - [fair-binary-classification](https://github.com/johnantonn/fair-binary-classification) — fairness on Adult (AIF360)  
 - [gaussian-bandits](https://github.com/johnantonn/gaussian-bandits) — multi-armed bandits  
 - [example-level-gradient-analysis](https://github.com/johnantonn/example-level-gradient-analysis) — per-example gradients  
-- [locality-sensitive-hashing](https://github.com/johnantonn/locality-sensitive-hashing) — LSH on Stack Overflow posts  
+- [kepler-exoplanet-prediction](https://github.com/johnantonn/kepler-exoplanet-prediction) — Kepler / KOI classification notebook  
 
-**Research**
+**Research (thesis & publication)**
 
 - [cash-for-unsupervised-ad](https://github.com/johnantonn/cash-for-unsupervised-ad) — CASH / AutoML for unsupervised anomaly detection (LIDTA 2022)
 
-**Earlier (AUTH & related)**
+**Earlier — Aristotle University & systems work**
 
 - [insight-qa](https://github.com/johnantonn/insight-qa) — semantic QA (Java, Elasticsearch, LDA)  
 - [pagerank](https://github.com/johnantonn/pagerank), [octree-division](https://github.com/johnantonn/octree-division) — parallel C (PageRank, octree)
 
-**Tools & demos**
+**Educational library**
 
 - [sorting](https://github.com/johnantonn/sorting) — Python sorting algorithms, pytest, benchmarks  
-- [kepler-exoplanet-prediction](https://github.com/johnantonn/kepler-exoplanet-prediction) — Kepler / KOI classification notebook  
 
 ## Curriculum vitae
 
