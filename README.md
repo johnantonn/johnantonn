@@ -52,7 +52,16 @@ I find the idea of pushing human boundaries with technology exciting, and I beli
 
 ## Selected GitHub repositories
 
-Past **coursework**, **side projects**, and **research code** live in separate repositories. Most are **archived** on GitHub (read-only snapshots; not actively maintained). This profile README and [**resume**](https://github.com/johnantonn/resume) stay current.
+Past **side projects**, **coursework**, and **research code** live in separate repositories. Most are **archived** on GitHub (read-only snapshots; not actively maintained). This profile README and [**resume**](https://github.com/johnantonn/resume) stay current.
+
+**Personal notebooks & experiments** (self-directed; not part of a degree curriculum)
+
+- [bias-variance-decomposition](https://github.com/johnantonn/bias-variance-decomposition) — bias–variance decomposition  
+- [fair-binary-classification](https://github.com/johnantonn/fair-binary-classification) — fairness on Adult (AIF360)  
+- [gaussian-bandits](https://github.com/johnantonn/gaussian-bandits) — multi-armed bandits  
+- [example-level-gradient-analysis](https://github.com/johnantonn/example-level-gradient-analysis) — per-example gradients  
+- [kepler-exoplanet-prediction](https://github.com/johnantonn/kepler-exoplanet-prediction) — Kepler / KOI classification notebook  
+- [sorting](https://github.com/johnantonn/sorting) — Python sorting algorithms, pytest, benchmarks  
 
 **KU Leuven — Master of Artificial Intelligence**
 
@@ -66,15 +75,6 @@ Past **coursework**, **side projects**, and **research code** live in separate r
 *Thesis & published research*
 
 - [cash-for-unsupervised-ad](https://github.com/johnantonn/cash-for-unsupervised-ad) — Master’s thesis code extended to the **LIDTA 2022** (ECML/PKDD) paper: CASH / AutoML for unsupervised anomaly detection  
-
-**Personal notebooks & experiments** (self-directed; not part of a degree curriculum)
-
-- [bias-variance-decomposition](https://github.com/johnantonn/bias-variance-decomposition) — bias–variance decomposition  
-- [fair-binary-classification](https://github.com/johnantonn/fair-binary-classification) — fairness on Adult (AIF360)  
-- [gaussian-bandits](https://github.com/johnantonn/gaussian-bandits) — multi-armed bandits  
-- [example-level-gradient-analysis](https://github.com/johnantonn/example-level-gradient-analysis) — per-example gradients  
-- [kepler-exoplanet-prediction](https://github.com/johnantonn/kepler-exoplanet-prediction) — Kepler / KOI classification notebook  
-- [sorting](https://github.com/johnantonn/sorting) — Python sorting algorithms, pytest, benchmarks  
 
 **Aristotle University**
 
