@@ -52,7 +52,7 @@ I find the idea of pushing human boundaries with technology exciting, and I beli
 
 ## Selected GitHub repositories
 
-Past **coursework**, **side projects**, **research code**, and small **libraries** live in separate repositories. Most are **archived** on GitHub (read-only snapshots; not actively maintained). This profile README and [**resume**](https://github.com/johnantonn/resume) stay current.
+Past **coursework**, **side projects**, and **research code** live in separate repositories. Most are **archived** on GitHub (read-only snapshots; not actively maintained). This profile README and [**resume**](https://github.com/johnantonn/resume) stay current.
 
 **KU Leuven — Master of Artificial Intelligence**
 
@@ -74,15 +74,12 @@ Past **coursework**, **side projects**, **research code**, and small **libraries
 - [gaussian-bandits](https://github.com/johnantonn/gaussian-bandits) — multi-armed bandits  
 - [example-level-gradient-analysis](https://github.com/johnantonn/example-level-gradient-analysis) — per-example gradients  
 - [kepler-exoplanet-prediction](https://github.com/johnantonn/kepler-exoplanet-prediction) — Kepler / KOI classification notebook  
+- [sorting](https://github.com/johnantonn/sorting) — Python sorting algorithms, pytest, benchmarks  
 
 **Earlier — Aristotle University & systems work**
 
 - [insight-qa](https://github.com/johnantonn/insight-qa) — semantic QA (Java, Elasticsearch, LDA)  
 - [pagerank](https://github.com/johnantonn/pagerank), [octree-division](https://github.com/johnantonn/octree-division) — parallel C (PageRank, octree)
-
-**Educational library**
-
-- [sorting](https://github.com/johnantonn/sorting) — Python sorting algorithms, pytest, benchmarks  
 
 ## Curriculum vitae
 
