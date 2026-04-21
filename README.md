@@ -54,12 +54,18 @@ I find the idea of pushing human boundaries with technology exciting, and I beli
 
 Past **coursework**, **side projects**, **research code**, and small **libraries** live in separate repositories. Most are **archived** on GitHub (read-only snapshots; not actively maintained). This profile README and [**resume**](https://github.com/johnantonn/resume) stay current.
 
-**KU Leuven — Master of Artificial Intelligence (formal coursework)**
+**KU Leuven — Master of Artificial Intelligence**
+
+*Coursework*
 
 - [cart](https://github.com/johnantonn/cart) — CART / decision trees  
 - [grid-world-mdp](https://github.com/johnantonn/grid-world-mdp) — grid-world MDP, policy iteration  
 - [taxi-rides-mapreduce](https://github.com/johnantonn/taxi-rides-mapreduce) — Hadoop MapReduce & Spark taxi analytics  
 - [locality-sensitive-hashing](https://github.com/johnantonn/locality-sensitive-hashing) — LSH on Stack Overflow posts  
+
+*Thesis & published research*
+
+- [cash-for-unsupervised-ad](https://github.com/johnantonn/cash-for-unsupervised-ad) — Master’s thesis code extended to the **LIDTA 2022** (ECML/PKDD) paper: CASH / AutoML for unsupervised anomaly detection  
 
 **Personal notebooks & experiments** (self-directed; not part of a degree curriculum)
 
@@ -68,10 +74,6 @@ Past **coursework**, **side projects**, **research code**, and small **libraries
 - [gaussian-bandits](https://github.com/johnantonn/gaussian-bandits) — multi-armed bandits  
 - [example-level-gradient-analysis](https://github.com/johnantonn/example-level-gradient-analysis) — per-example gradients  
 - [kepler-exoplanet-prediction](https://github.com/johnantonn/kepler-exoplanet-prediction) — Kepler / KOI classification notebook  
-
-**Research (thesis & publication)**
-
-- [cash-for-unsupervised-ad](https://github.com/johnantonn/cash-for-unsupervised-ad) — CASH / AutoML for unsupervised anomaly detection (LIDTA 2022)
 
 **Earlier — Aristotle University & systems work**
 
