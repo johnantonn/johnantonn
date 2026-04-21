@@ -50,6 +50,35 @@ I find the idea of pushing human boundaries with technology exciting, and I beli
 
 *All it takes is one small step at a time!*
 
+## Selected GitHub repositories
+
+Past **coursework**, **research code**, and small **tools** live in separate repositories. Most of those are **archived** on GitHub (read-only snapshots; not actively maintained). This profile README and [**resume**](https://github.com/johnantonn/resume) stay current.
+
+**KU Leuven — Master of Artificial Intelligence**
+
+- [cart](https://github.com/johnantonn/cart) — CART / decision trees  
+- [grid-world-mdp](https://github.com/johnantonn/grid-world-mdp) — grid-world MDP, policy iteration  
+- [taxi-rides-mapreduce](https://github.com/johnantonn/taxi-rides-mapreduce) — Hadoop MapReduce & Spark taxi analytics  
+- [bias-variance-decomposition](https://github.com/johnantonn/bias-variance-decomposition) — bias–variance notebooks  
+- [fair-binary-classification](https://github.com/johnantonn/fair-binary-classification) — fairness on Adult (AIF360)  
+- [gaussian-bandits](https://github.com/johnantonn/gaussian-bandits) — multi-armed bandits  
+- [example-level-gradient-analysis](https://github.com/johnantonn/example-level-gradient-analysis) — per-example gradients  
+- [locality-sensitive-hashing](https://github.com/johnantonn/locality-sensitive-hashing) — LSH on Stack Overflow posts  
+
+**Research**
+
+- [cash-for-unsupervised-ad](https://github.com/johnantonn/cash-for-unsupervised-ad) — CASH / AutoML for unsupervised anomaly detection (LIDTA 2022)
+
+**Earlier (AUTH & related)**
+
+- [insight-qa](https://github.com/johnantonn/insight-qa) — semantic QA (Java, Elasticsearch, LDA)  
+- [pagerank](https://github.com/johnantonn/pagerank), [octree-division](https://github.com/johnantonn/octree-division) — parallel C (PageRank, octree)
+
+**Tools & demos**
+
+- [sorting](https://github.com/johnantonn/sorting) — Python sorting algorithms, pytest, benchmarks  
+- [kepler-exoplanet-prediction](https://github.com/johnantonn/kepler-exoplanet-prediction) — Kepler / KOI classification notebook  
+
 ## Curriculum vitae
 
 You can find my full CV [here](https://www.dropbox.com/scl/fi/8ivr3wr4eyzgz1rlop83s/iantoniadis_2026.pdf?rlkey=fkofbkvo55g7plw0ni17fajwk&dl=0).
