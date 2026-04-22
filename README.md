@@ -14,7 +14,7 @@
 
 ## Education
 
-I hold an **MEng in Electrical and Computer Engineering** (2015, top 3%) from **Aristotle University of Thessaloniki**, Greece, and an **MSc in Artificial Intelligence** (2022, *magna cum laude*) from **KU Leuven**, Belgium. I was fortunate to have been taught by outstanding professors, experts, and mentors across **mathematics**, **physics**, **engineering**, and **computer science**.
+I hold an **MEng in Electrical and Computer Engineering** (2015, top 3% of my class) from **Aristotle University of Thessaloniki**, Greece, and an **MSc in Artificial Intelligence** (2022, *magna cum laude*) from **KU Leuven**, Belgium. I was fortunate to learn from outstanding professors and mentors in **mathematics**, **physics**, **engineering**, and **computer science**.
 
 I have authored two papers:
 
