@@ -2,7 +2,7 @@
 
 I'm **trying to optimize** a notoriously complex loss function by navigating a **high-dimensional, non-convex space-time manifold**, one small step at a time. **Most probably, so are you!**
 
-**What I try to remember:**
+**My learnings from this winding journey:**
 
 - **Choose your objective with caution**—you drift toward whatever you optimize.
 - **Curate what you train on**—you learn from what you keep feeding yourself.
