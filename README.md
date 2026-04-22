@@ -52,7 +52,7 @@ I find the idea of pushing human boundaries with technology exciting, and I beli
 
 ## Selected GitHub repositories
 
-Past **side projects**, **coursework**, and **research code** live in separate repositories. Most are **archived** on GitHub (read-only snapshots; not actively maintained). This profile README and [**resume**](https://github.com/johnantonn/resume) stay current.
+Past **side projects**, **coursework**, and **research code** live in separate repositories. Most are **archived** on GitHub (read-only snapshots; not actively maintained).
 
 **Personal notebooks & experiments** (self-directed; not part of a degree curriculum)
 
