@@ -9,19 +9,19 @@
 ```
 *Tiny sketch: gradient in a high-dimensional sky.*
 
-Trying to optimize a notoriously complex loss function by navigating a high-dimensional, non-convex space-time manifold, one small step at a time.
+**Life hands you a loss you didn't choose, on a landscape you can't fully see.** You still get to pick your step size, your data, and what "better" means. That's not a bug—it's the whole training run.
 
-Most probably, so are you!
+Most probably, so are you.
 
-**My learnings from this mysterious journey**:
+**Field notes from the optimizer:**
 
-- Select the loss function(s) you want to optimize with caution.
-- Choose your training data carefully. This is what you'll be learning from.
-- Adapt your learning rate accordingly; be careful not to overshoot.
-- Make informative, small steps in the right direction.
-- Trust the power of the gradient, but also enable clipping to keep it from exploding.
-- Stay alert—you might overfit. Perhaps use some regularization.
-- Keep descending—but allow momentum to carry you through valleys!
+- Choose your **objectives** deliberately; you'll gradient-step toward whatever you optimize.
+- Curate your **training data**; your life learns from what you feed it.
+- Tune your **learning rate**—bold enough to move, small enough not to blow up.
+- Prefer **signal over noise**: informative steps beat frantic ones.
+- Use **guardrails** when gradients spike; nobody benefits from an explosion.
+- Watch for **overfitting** to a narrow story; **regularization** keeps you generalizing.
+- **Momentum** helps: keep descending, but let past progress carry you through flat valleys.
 
 ## Education
 
