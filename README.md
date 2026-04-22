@@ -1,14 +1,5 @@
 # About me
 
-```text
-                   ·   ✦   ·
-                    \ | /
-     ·  ·  ·  ~ \/\/\/ ~  ·  ·  ·    ←  a very non-convex day
-                    ·
-                    ∇
-```
-*Tiny sketch: one noisy gradient in a high-dimensional sky.*
-
 **Life hands you a loss you didn't choose, on a landscape you can't fully see.** You still get to pick your step size, your data, and what "better" means. That's not a bug—it's the whole training run.
 
 **Field notes from the optimizer:**
