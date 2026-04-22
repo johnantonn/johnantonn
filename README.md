@@ -1,12 +1,10 @@
 # About me
 
-**Life is high-dimensional, non-convex optimization:** noisy gradients, only local views, **small steps** on repeat.
-
-**You pick the objective**; the world stays messy. You still choose **what you train on**, **how fast you move**, and **what counts as better**. That's not a bug—it's the whole training run.
+I'm **trying to optimize** a notoriously complex loss function by navigating a **high-dimensional, non-convex space-time manifold**, one small step at a time. **Most probably, so are you!**
 
 **What I try to remember:**
 
-- **Name your objective on purpose**—you drift toward whatever you optimize.
+- **Choose your objective with caution**—you drift toward whatever you optimize.
 - **Curate what you train on**—you learn from what you keep feeding yourself.
 - **Set the pace**—bold enough to move, small enough not to overshoot.
 - **Favour signal over noise**—small, informative steps beat thrashing.
