@@ -1,6 +1,6 @@
 # About me
 
-I'm **trying to optimize** a notoriously complex loss function by navigating a **high-dimensional, non-convex space-time manifold**, one small step at a time. **Most probably, so are you!**
+I'm **trying to optimize** a notoriously **complex loss function**, navigating a **high-dimensional, non-convex** landscape—**one small step at a time**. Probably, so are you!
 
 **My learnings from this winding journey:**
 
