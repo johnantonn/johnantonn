@@ -1,16 +1,18 @@
 # About me
 
-**Life hands you a loss you didn't choose, on a landscape you can't fully see.** You still get to pick your step size, your data, and what "better" means. That's not a bug—it's the whole training run.
+**Life is high-dimensional, non-convex optimization:** noisy gradients, only local views, **small steps** on repeat.
 
-**Field notes from the optimizer:**
+**You pick the objective**; the world stays messy. You still choose **what you train on**, **how fast you move**, and **what counts as better**. That's not a bug—it's the whole training run.
 
-- Choose your **objectives** deliberately; you'll gradient-step toward whatever you optimize.
-- Curate your **training data**; your life learns from what you feed it.
-- Tune your **learning rate**—bold enough to move, small enough not to blow up.
-- Prefer **signal over noise**: informative steps beat frantic ones.
-- Use **guardrails** when gradients spike; nobody benefits from an explosion.
-- Watch for **overfitting** to a narrow story; **regularization** keeps you generalizing.
-- **Momentum** helps: keep descending, but let past progress carry you through flat valleys.
+**What I try to remember:**
+
+- **Name your objective on purpose**—you drift toward whatever you optimize.
+- **Curate what you train on**—you learn from what you keep feeding yourself.
+- **Set the pace**—bold enough to move, small enough not to overshoot.
+- **Favour signal over noise**—small, informative steps beat thrashing.
+- **Rein in the extremes**—when gradients explode, nobody benefits.
+- **Beware tunnel vision** (overfitting)—a little **regularization** keeps you adaptable.
+- **Use momentum**—keep going; let earlier progress carry you through flat stretches.
 
 ## Education
 
