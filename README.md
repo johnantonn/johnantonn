@@ -35,7 +35,7 @@ In **September 2022** I joined [Expedia Group](https://www.expediagroup.com/home
 
 ## What motivates me
 
-I find the idea of pushing human boundaries with technology exciting, and I believe in the responsibility of making the world a better place for future generations.
+I find it exciting to push human boundaries with technology, and I believe we have a responsibility to leave the world better for future generations.
 
 *All it takes is one small step at a time!*
 
